@@ -1,0 +1,22 @@
+using interpolation to show tables
+
+wap to ul to personal details
+
+swap to display values of two given variables it also create a button swapping
+
+wap to display numbers from 1 to 10
+
+wap to display 10 to 1
+
+wap to display first 10 even numbers 
+create a button to change into odd
+
+wap to program to make button as per given
+number=10
+factorial
+increase
+decrease
+reverse
+table
+even or odd
+prime 
